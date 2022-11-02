@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372230165693",
+    "project_id": "promove-ed7ce",
+    "storage_bucket": "promove-ed7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372230165693:android:59040d8b58fcc3c88d53d4",
+        "android_client_info": {
+          "package_name": "com.example.promove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372230165693-ghn27d22eu94na26jthfs3dh9reaer4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1vMX1uNdThOlwyu5EDS9ry0eCnZFIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372230165693-ghn27d22eu94na26jthfs3dh9reaer4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
